@@ -1,6 +1,6 @@
 # ☕ Café Expresso — Sistema de Autoatendimento
 
-> Projeto acadêmico desenvolvido como parte da disciplina de [nome da disciplina].
+> Projeto acadêmico desenvolvido como parte da disciplina de [Engenharia de Software Avançada].
 
 ---
 
