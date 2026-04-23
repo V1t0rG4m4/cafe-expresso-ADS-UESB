@@ -76,7 +76,7 @@ PENDENTE → PAGO → EM_PREPARO → FINALIZADO
 
 ```
 ┌─────────────────────────────────┐        ┌──────────────────────────────┐        ┌──────────────────────────┐
-│             Pedido              │        │          ItemPedido           │        │          Produto         │
+│             Pedido              │        │          ItemPedido          │        │          Produto         │
 ├─────────────────────────────────┤        ├──────────────────────────────┤        ├──────────────────────────┤
 │ - itens: List<ItemPedido>       │ 1    * │ - produto: Produto           │ *    1 │ - nome: String           │
 │ - status: StatusPedido          │◄───────│ - quantidade: int            │───────►│ - precoUnitario: double  │
@@ -107,10 +107,10 @@ PENDENTE → PAGO → EM_PREPARO → FINALIZADO
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/cafe-expresso.git
+git clone https://github.com/V1t0rG4m4/cafe-expresso-ADS-UESB.git
 
 # Acesse a pasta do projeto
-cd cafe-expresso
+cd cafe-expresso-ADS-UESB
 ```
 
 ---
